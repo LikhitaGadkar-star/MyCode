@@ -1,3 +1,3 @@
 # MyCode
 This is my new Git Repository
-By Likhita Gadkar
+By Likhita Gadkar(MyCode)
