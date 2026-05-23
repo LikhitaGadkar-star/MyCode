@@ -1,2 +1,3 @@
 # MyCode
-This is my new Repository
+This is my new Git Repository
+By Likhita Gadkar
